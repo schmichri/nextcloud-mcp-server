@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # 🌐 NextCloud MCP Server
 
@@ -141,6 +141,17 @@ nextcloud-mcp-server
 # Or with Node.js
 node build/index.js
 ```
+
+</details>
+
+<details>
+<summary>ypipe</summary>
+
+Install and run **ypipe** with a single command using JBang:
+```bash
+jbang ypipe@iunera/ypipe
+```
+Or download the desktop app from [ypipe.com](https://ypipe.com). Once opened, simply import the pre-configured [nextcloud.ypipe](./nextcloud.ypipe) blueprint configuration file to install and register this MCP server with one click.
 
 </details>
 
